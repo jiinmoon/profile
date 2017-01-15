@@ -1,6 +1,9 @@
 #Who am I?
 
-Breif description of who I am. 
-Simple profile website.
+
+This is a profile website created in HTML and CSS.
+
+The design style has been inspired by DHH profile site.
 
 
+by F.Moon
